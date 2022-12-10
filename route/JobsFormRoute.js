@@ -8,3 +8,4 @@ router.get("/getAll", getAll);
 router.post("/add", add);
 
 module.exports = router;
+
